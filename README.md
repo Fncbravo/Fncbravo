@@ -74,7 +74,7 @@
 ## **Wanna know more about me?** 
 **Send me an email** : sujeetbaisane05@gmail.com
 
-## **GitHub stat:**
+## **GitHub stats:**
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 <!-- The cards -->
@@ -92,17 +92,16 @@
 
 <a href="https://github.com/Fncbravo" title="Redirects to github page">
 <img width="53%" src="https://leetcard.jacoblin.cool/Serrioton" /></a>
-<!--
-**Fncbravo/Fncbravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![An image of @fncbravo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fncbravo)](https://holopin.io/@fncbravo)
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<!-- <details>
+<summary> <bold>CLICK TO WATCH CONTRIBUTION GRAPH </bold> </summary>
+
+</details> -->
+
+<div align =center>
+
+[![Fncbravo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fncbravo&custom_title=Fncbravo's%20Activity&hide_border=true&theme=react-dark)](https://github.com/Fncbravo/github-readme-activity-graph)
+
+</div>
+
