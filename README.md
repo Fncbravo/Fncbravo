@@ -1,5 +1,7 @@
 ### Hi there friends 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3C+Hello+World%2C+Sujeet+here!%2F%3E)](https://git.io/typing-svg)
+
 <a href="https://leetcode.com/fncbravo/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
@@ -31,6 +33,36 @@
 - ✔️Always excited and ready to **learn new skills👨‍🎓**.
   
 [![@Sujeet's Holopin board](https://holopin.me/fncbravo)](https://holopin.io/@fncbravo)
+
+## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
+<p>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px">
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px" height="40px" >
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40px" height="40px">
+ &nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40px heigth=50px > &nbsp 
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px" height="40px"> 
+&nbsp
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px" height="40px"> 
+&nbsp
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="35px" height="35px">
+          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="35px" height="35px">
+          
+
+</p>
 
 <!--
 **Fncbravo/Fncbravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
