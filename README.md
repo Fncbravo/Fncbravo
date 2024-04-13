@@ -19,10 +19,6 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://">
-	<img src= "https://img.shields.io/badge/">
-</a>
-
 
 # **About me** :
 
