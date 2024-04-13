@@ -104,4 +104,4 @@
 [![Fncbravo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fncbravo&custom_title=Fncbravo's%20Activity&hide_border=true&theme=react-dark)](https://github.com/Fncbravo/github-readme-activity-graph)
 
 </div>
-
+<img src="https://github.com/Fncbravo/Fncbravo/blob/main/Gojo%20Satoru%20Jujutsu%20Kaisen%20GIF%20-%20Gojo%20Satoru%20Jujutsu%20Kaisen%20-%20Discover%20%26%20Share%20GIFs%20(1).gif" alt="Gojo Satoru" width = 50%>
