@@ -68,14 +68,27 @@ w### Hi there friends 👋
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35px" height="35px">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="40px" height="35px">
-          
-          
-          
-          
-          
-          
 
 </p>
+
+## **Wanna know more about me?** 
+**Send me an email** : sujeetbaisane05@gmail.com
+
+## **GitHub stat:**
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+
+<!-- The cards -->
+
+<p align="center">
+
+<a href="https://github.com/Fncbravo" title="Redirect's to Fncbravo's Github">
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=Fncbravo&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+  
+<a href="https://github.com/Fncbravo">
+<img width= "49%" title="Redirect's to Fncbravo's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Fncbravo&theme=dark&theme=black-ice&stroke=0000" /></a>
+
+<a href ="https://github.com/Fncbravo" title="Redirect's to Fncbravo's Github">
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fncbravo&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
 <!--
 **Fncbravo/Fncbravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
