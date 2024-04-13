@@ -90,7 +90,7 @@
 <a href ="https://github.com/Fncbravo" title="Redirect's to Fncbravo's Github">
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fncbravo&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
-<a href="https://github.com/Fncbravo" title="Redirects to github page">
+<a href="https://leetcode.com/Serrioton" title="Redirects to github page">
 <img width="53%" src="https://leetcard.jacoblin.cool/Serrioton" /></a>
 
 </p>
