@@ -1,4 +1,4 @@
-w### Hi there friends 👋
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3C+Hello+World%2C+Sujeet+here!%2F%3E)](https://git.io/typing-svg)
 
@@ -90,6 +90,8 @@ w### Hi there friends 👋
 <a href ="https://github.com/Fncbravo" title="Redirect's to Fncbravo's Github">
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fncbravo&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
+<a href="https://github.com/Fncbravo" title="Redirects to github page">
+<img width="53%" src="https://leetcard.jacoblin.cool/Serrioton" /></a>
 <!--
 **Fncbravo/Fncbravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![An image of @fncbravo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fncbravo)](https://holopin.io/@fncbravo)
