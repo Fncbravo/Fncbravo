@@ -1,4 +1,4 @@
-### Hi there friends 👋
+w### Hi there friends 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3C+Hello+World%2C+Sujeet+here!%2F%3E)](https://git.io/typing-svg)
 
@@ -66,6 +66,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="35px" height="35px">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35px" height="35px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="40px" height="40px">
+          
           
           
           
