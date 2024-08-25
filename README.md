@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3C+Hello+World%2C+Sujeet+here!%2F%3E)](https://git.io/typing-svg)
 
-<a href="https://leetcode.com/fncbravo/">
+<a href="https://leetcode.com/Serrioton/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://in.linkedin.com/in/sujeet-baisane-296b16220">
