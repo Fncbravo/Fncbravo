@@ -22,7 +22,6 @@
 
 # **About me** :
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fncbravo&label=Profile%20views&color=0e75b6&style=flat" alt="Fncbravo" /> </p>
 
 - ✔️I enjoy building web apps and currently learning MERN stack.
 - ✔️I love video editing and Graphic designing and have made several videos on YouTube.
